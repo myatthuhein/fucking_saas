@@ -11,6 +11,8 @@ group :production do
    gem 'pg'
    gem 'rails_12factor'
 end
+# Use font awesome
+gem 'font-awesome-sass', '4.2.0'
 
 # Use bootstrap zzz
 gem 'bootstrap-sass', '3.3.1'
